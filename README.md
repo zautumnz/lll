@@ -4,8 +4,6 @@ Simple terminal file manager
 
 WIP, extremely rough. I would not recommend using this until it's 1.0.0.
 
-[![Support with PayPal](https://img.shields.io/badge/paypal-donate-yellow.png)](https://paypal.me/zacanger) [![Patreon](https://img.shields.io/badge/patreon-donate-yellow.svg)](https://www.patreon.com/zacanger) [![ko-fi](https://img.shields.io/badge/donate-KoFi-yellow.svg)](https://ko-fi.com/U7U2110VB)
-
 ## Dependencies
 
 * ncurses
